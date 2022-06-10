@@ -1,4 +1,5 @@
-# Final project MVP base created with Django
+# Django-Ahorrapp
+Final project MVP base created with Django
 
 ## Install Django
 `$ python3 -m pip install Django`
